@@ -1,0 +1,22 @@
+# create a new virtual env
+python3 -m venv ./name-directory-venv
+
+# access it (linux and macOS)
+source venv/bin/activate
+
+# installing packages
+pip install 'package-name'
+
+# make it work with notebooks
+pip install ipykernel -U --force-reinstall
+
+# get the list of installed packages from venv (usually the name of the file is 'requirements')
+pip freeze > requirements.txt
+
+# install from requirements.txt
+pip install -r requirements.txt
+
+# deactivate environment
+deactivate
+
+# Second option use: vscode virtual env creation
