@@ -18,7 +18,9 @@ Notebooks:
 
 * [Lab 4](notebooks/Lab_4_RegressionAndRegularizations.ipynb): Regression and Regularizations ([solution](solved-notebooks/SOLVED-Lab-4.RegressionAndRegularizations.ipynb))
 
-* [Lab 5](notebooks/Lab_5_UnsupervisedLearning.ipynb): Unsupervised Learning ([solution]())
+* [Lab 5](notebooks/Lab_5_UnsupervisedLearning.ipynb): Unsupervised Learning ([solution](solved-notebooks/SOLVED-Lab_5_UnsupervisedLearning.ipynb))
+
+* [Lab 6](notebooks/Lab_6_DecisionTreeNaiveBayes.ipynb): Decision Tree and Naive Bayes ([solution]())
 
 Challenges:
 
